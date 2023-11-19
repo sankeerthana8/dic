@@ -1,0 +1,12 @@
+Item_Weight,Item_Visibility,Item_Type,Item_MRP,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+8.56,0.069,Dairy,25,1999,Large ,Tier 1,LL,203.66
+5.96,0.025,Frozen Foods,151,2000,Small,Tier 3,MM,205.56
+4.55,0.045,Baking Foods,58,2002,Medium,Tier 2,SS,2040.6
+7.36,0.036,Snack Foods,14,2020,Small,Tier 3,LL,506.39
+9.86,0.054,Meat,25,2012,Large ,Tier 1,SS,600.33
+2,0.088,Breakfast,121,2011,Medium,Tier 2,MM,809
+5.36,0.099,Breads,5465,2015,Large ,Tier 1,SS,900.6
+8.88,0.055,Soft Drinks,14,2019,Medium,Tier 3,MM,906.33
+1.55,0.055,Hard Drinks,545,2004,Small,Tier 2,LL,805.55
+6.99,0.046,Sea Foods,14,1915,Small,Tier 1,MM,474.65
+4.22,0.0553,Canned,203,1916,Large ,Tier 3,SS,808.8

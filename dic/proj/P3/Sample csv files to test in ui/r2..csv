@@ -1,0 +1,50 @@
+Item_Weight,Item_Visibility,Item_Type,Item_MRP,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+78,0.016,Snack Foods,89,2011,Large,Tier 1,MM,963.3
+54,0.023,Dairy,65,2012,Small, Tier 2,MM,896.36
+2.3,0.056,Canned,23,2000,Medium,Tier 2,LL,75.25
+45.5,0.012,Fruits and Vegetables,45,2002,Small,Tier 2,MM,159.63
+3.44,0.045,Meat,56,2003,Large,Tier 3,MM,357.69
+7.89,0.089,Soft Drinks,321,2003,Medium,Tier 1,LL,559.63
+5.66,0.055,Dairy,100,2001,Large,Tier 3,SS,236.96
+6.33,0.022,Seafood,123,2004,Small,Tier 1,MM,258.36
+3.56,0.012,Hard Drinks,56,2006,Large,Tier 2,LL,753.25
+3.21,0.023,Canned,159,2005,Medium,Tier 1,MM,951.66
+3.45,0.32,Dairy,35,2006,Large,Tier 2,SS,753.26
+3.12,0.096,Household,852,2004,Medium,Tier 1,MM,852.12
+3.89,0.088,Snack Foods,963,2006,Small,Tier 3,LL,456
+0.66,0.055,Soft Drinks,741,2001,Small,Tier 2,SS,951
+0.55,0.055,Fruits and Vegetables,369,2006,Medium,Tier 2,MM,863
+0.12,0.066,Dairy,258,2003,Large,Tier 3,SS,789
+0.23,0.022,Seafood,147,2005,Large,Tier 3,LL,159
+0.45,0.033,Hard Drinks,753,2009,Small,Tier 1,MM,357
+0.56,0.056,Meat,951,2008,Medium,Tier 1,MM,265.36
+0.78,0.089,Canned,45,2007,Large,Tier 3,LL,451.26
+0.89,0.078,Fruits and Vegetables,63,2016,Small,Tier 2,SS,895.36
+0.74,0.089,Dairy,85,2015,Large,Tier 1,MM,756.23
+0.41,0.045,Seafood,26,2000,Large,Tier 2,MM,951.25
+0.23,0.056,Soft Drinks,15,2001,Small,Tier 3,LL,856.23
+0.56,0.012,Household,36,2011,Small,Tier 1,SS,745.26
+0.89,0.023,Hard Drinks,261,2012,Medium,Tier 3,MM,951.26
+0.85,0.015,Snack Foods,159,2013,Medium,Tier 1,MM,854.23
+0.52,0.059,Dairy,45,2016,Large,Tier 2,LL,856
+0.96,0.075,Soft Drinks,78,2014,Large,Tier 1,MM,951.23
+0.63,0.053,Seafood,48,2015,Small,Tier 3,MM,756.15
+0.95,0.056,Hard Drinks,159,2019,Medium,Tier 2,LL,852.36
+0.51,0.052,Canned,26,2022,Large,Tier 1,SS,741.23
+0.75,0.096,Fruits and Vegetables,37,2012,Large,Tier 1,SS,951.23
+0.53,0.023,Meat,56,2022,Small,Tier 3,MM,789.15
+0.555,0.075,Dairy,23,2015,Medium,Tier 3,LL,756.23
+0.45,0.084,Hard Drinks,563,2004,Large,Tier 2,MM,896.23
+0.99,0.086,Soft Drinks,269,2006,Small,Tier 2,SS,566.25
+0.66,0.096,Fruits and Vegetables,357,2004,Large,Tier 3,LL,859.63
+0.33,0.035,Soft Drinks,841,2008,Medium,Tier 3,MM,445.63
+0.55,0.026,Snack Foods,26,2007,Medium,Tier 2,MM,956.8
+0.056,0.045,Meat,8459,2009,Medium,Tier 1,LL,789.5
+0.2,0.025,Soft Drinks,2654,2006,Large,Tier 3,SS,963.25
+0.12,0.56,Household,548,2003,Large,Tier 2,MM,894.26
+0.33,0.12,Meat,549,2004,Small,Tier 3,MM,789.55
+0.22,0.65,Soft Drinks,4854,2005,Small,Tier 1,SS,741.66
+0.44,0.66,Seafood,21569,2006,Large,Tier 1,LL,669.89
+0.55,0.22,Fruits and Vegetables,6595,2001,Large,Tier 3,MM,596.33
+0.3,0.44,Dairy,57,2008,Medium,Tier 2,MM,895.63
+0.5,0.77,Canned,5623,2009,Medium,Tier 3,MM,789.4
